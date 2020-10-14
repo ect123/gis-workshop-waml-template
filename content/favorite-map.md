@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Your New Page's Title
-nav_order: 11
+title: Fav Map
+nav_order: 2.5
 ---
 
 ![my favourite map](img/fav-map.png)
